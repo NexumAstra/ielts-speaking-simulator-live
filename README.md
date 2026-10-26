@@ -46,7 +46,7 @@ The model must actually receive audio to assess pronunciation and complete fluen
 
 ## Sources and license
 
-Sources include supplied official IELTS Speaking descriptors, Speaking Sample Tasks 2023 and Scores Guide, plus a user-compiled Cambridge IELTS 4–21-based paraphrase corpus. Its annotations also cite an Oxford learner's thesaurus and 顾家北 collocations; these claims have not been independently verified entry by entry. The Writing rubric is retained for provenance and excluded from Speaking grading. Practice plans and sample demonstrations are project originals.
+Sources include supplied official IELTS Speaking descriptors, Speaking Sample Tasks 2023 and Scores Guide, plus a user-compiled Cambridge IELTS 4–21-based paraphrase corpus. Its annotations also cite an Oxford learner's thesaurus; these claims have not been independently verified entry by entry. The Writing rubric is retained for provenance and excluded from Speaking grading. Practice plans and sample demonstrations are project originals.
 
 [MIT](LICENSE) applies only to original project portions as described in [LICENSE_SCOPE.md](LICENSE_SCOPE.md). Third-party PDFs, extracts, corpus and their embedded portions retain their respective rights; inclusion does not grant redistribution permission. This project is unaffiliated with and not endorsed by the British Council, IDP IELTS, or Cambridge University Press & Assessment. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
