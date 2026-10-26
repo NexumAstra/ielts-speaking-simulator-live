@@ -40,6 +40,10 @@ Download/clone the repository with `.agents/plugins/marketplace.json` intact. Op
 
 The local catalog points to the plugin at the repository root. No external MCP service or API key is required by this package. See the [detailed installation guide](docs/INSTALLATION.zh-CN.md), [OpenAI plugin guide](https://learn.chatgpt.com/docs/plugins), and [local marketplace reference](https://developers.openai.com/plugins/build/plugins). Documentation checked 2026-10-26.
 
+## Configuration and secrets
+
+This release has no runtime API-key requirement and contains no hardcoded API key. The repository ignores `.env` and all `.env.*` files except the safe template [.env.example](.env.example). If a future optional integration needs a credential, copy `.env.example` to `.env`, keep the real value only in the local `.env`, and read it from the environment at runtime. Never put a real key in source, documentation, prompts, archives or commits.
+
 ## Capabilities and assessment
 
 The model must actually receive audio to assess pronunciation and complete fluency. Text and dictation support limited language feedback. Voice integration on iOS/Android has not been verified for this plugin. Timing, files and context are host capabilities; history is visible/imported, without an independent account-wide database. Practice scores are estimates, not official results.

@@ -47,6 +47,10 @@ Markdown开头含YAML，已内嵌考试规则、完整口语descriptor、题库�
 
 安装步骤依据 [OpenAI插件说明](https://learn.chatgpt.com/docs/plugins) 与 [本地插件目录文档](https://developers.openai.com/plugins/build/plugins)，核对日期：2026-10-26。详细操作另见 [安装指南](docs/INSTALLATION.zh-CN.md)。
 
+## 配置与密钥安全
+
+当前版本不需要运行时API Key，也没有硬编码API Key。仓库会忽略`.env`及所有`.env.*`文件，仅保留安全模板 [.env.example](.env.example)。若以后增加需要凭据的可选集成，请先复制`.env.example`为本地`.env`，只在`.env`中填写真实值，并在运行时从环境变量读取。不要把真实密钥写入源码、文档、提示词、压缩包或Git提交。
+
 ## 使用边界
 
 只有模型实际可访问音频时，才能评估发音与完整流利度。纯文字或语音转写只支持有限语言反馈，不生成虚构的发音分或完整口语总分。实时语音、文件读取与精确计时取决于宿主，iOS/Android插件与语音联用尚未实机验证。项目没有独立账户级历史数据库。
