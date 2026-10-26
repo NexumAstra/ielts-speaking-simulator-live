@@ -13,11 +13,11 @@
 - 18主题语料提供自然英文范文及中文搭配、语义和语域解释。
 
 ## 安装方式一：导入大语言模型（电脑或手机）
-
+**支持豆包、kimi等可以实时对话的AI大模型软件**
 **可直接将Markdown文件导入手机大语言模型客户端**：通过客户端的附件上传、文件导入或知识库入口载入，具体入口和可接受格式以该客户端为准。
 
 1. 下载 [IELTS-SPEAKING-SIMULATOR-LIVE-PORTABLE.md](portable/IELTS-SPEAKING-SIMULATOR-LIVE-PORTABLE.md)。在GitHub手机页面查看文件时，可打开Raw/原始文件并保存到系统“文件”或下载目录。
-2. 在手机或电脑的大语言模型客户端新建聊天，点击“+ / 附件 / 上传文件”等入口，选择刚保存的`.md`文件。如果使用项目知识库或自定义助手，也可将该文件添加为知识资料。
+2. **在手机或电脑的大语言模型客户端新建聊天，点击“+ / 附件 / 上传文件”等入口，选择刚保存的`.md`文件。**如果使用项目知识库或自定义助手，也可将该文件添加为知识资料。
 3. 发送下方启动指令，明确要求执行“核心运行规则”，并将附录视为参考资料。等待模型确认已读取所需章节。
 4. 有考题时，再上传题目或粘贴文字；没有考题则由模型出题。
 5. 按一题一答完成考试。如果当前客户端支持保留文件上下文的实时语音，可进入语音作答；Part 2可用手机计时器辅助。
@@ -27,7 +27,7 @@
 
 Markdown开头含YAML，已内嵌考试规则、完整口语descriptor、题库和原始语料，无需安装插件或运行代码。文件约360 KiB，需要足够的上下文容量或附件检索能力。若客户端不接受`.md`，可把内容作为纯文本导入；无法读取全文时应分章节载入并说明缺失范围。
 
-## 安装方式二：安装到ChatGPT客户端
+## 安装方式二：安装到ChatGPT客户端（有ChatGPT客户端时才可选择这种方式）
 
 ### A. 从已创建或已共享的插件安装
 
@@ -53,7 +53,7 @@ Markdown开头含YAML，已内嵌考试规则、完整口语descriptor、题库�
 
 ## 语料来源与版权
 
-来源包括IELTS官方Speaking Band Descriptors、Speaking Sample Tasks 2023、Scores Guide，以及用户整理的《雅思高频同义替换语料库_剑4–21》。语料按自身标注参考《剑桥雅思4–21》、牛津英语同义词学习词典及顾家北词伙资料，未经逐条独立核验。Writing Key Assessment Criteria仅留存来源，不用于口语评分；17套练习与范文样例为项目原创。
+来源包括IELTS官方Speaking Band Descriptors、Speaking Sample Tasks 2023、Scores Guide，以及用户整理的《雅思高频同义替换语料库_剑4–21》。语料按自身标注参考《剑桥雅思4–21》、牛津英语同义词学习词典，未经逐条独立核验。Writing Key Assessment Criteria仅留存来源，不用于口语评分；17套练习与范文样例为项目原创。
 
 [MIT License](LICENSE)仅覆盖项目原创部分，范围见 [LICENSE_SCOPE.md](LICENSE_SCOPE.md)。第三方PDF、官方提取文本、语料及其嵌入部分保留各权利人的版权和适用条款；收录不产生新的再分发授权。本项目与British Council、IDP IELTS、Cambridge University Press & Assessment无隶属或背书关系，模拟分数不是正式IELTS成绩。详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
