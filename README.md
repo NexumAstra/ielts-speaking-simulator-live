@@ -12,7 +12,7 @@ Full IELTS Speaking Parts 1–3, uploaded questions, descriptor-based practice f
 - Self-contained Markdown with YAML; original plugin source and blue/white icons included.
 
 ## Installation 1: import into a model on mobile or desktop
-
+**Available in Gemini, Grok or other LLM Applications**
 **You can import the Markdown directly into a mobile conversational-model client** using its attachment, file-import or knowledge-library feature, where that client supports text files.
 
 1. Save [the portable Markdown](portable/IELTS-SPEAKING-SIMULATOR-LIVE-PORTABLE.md) to your phone's Files/Downloads. On GitHub, use the file's raw/download view.
