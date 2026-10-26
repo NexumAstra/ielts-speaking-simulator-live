@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ielts-speaking-simulator",
+  "version": "1.0.1",
+  "description": "IELTS Speaking mock exams, descriptor-based scoring, uploaded questions and corpus-grounded sample answers.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "IELTS SPEAKING SIMULATOR LIVE",
+        "shortDescription": "全真口语模拟 · 四项评分 · 语料示范",
+        "longDescription": "模拟雅思口语考官，完整覆盖 Part 1、Part 2、Part 3。支持上传题目、补全缺失部分、跨领域原创命题、可见考试历史内的题目去重。依据官方 Speaking Band Descriptors 逐项评分，缺少音频时明确限制发音与流利度评估。使用剑桥雅思4–21主题语料库提供自然示范答案及中文讲解。按宿主提供的实时语音能力对话；移动端与语音组合可用性须实测，插件不能开启未提供的功能。非官方考试或成绩认证。",
+        "category": "Education & Research",
+        "capabilities": [],
+        "defaultPrompt": [
+          "开始完整雅思口语模拟考试。优先使用上传题目，否则生成跨领域且不重复的题目；考试结束后评分。",
+          "使用我上传的考题完成 Part 1、Part 2 和 Part 3，缺失部分请按官方格式补全。",
+          "给我刚才的答案评分，并使用同义替换语料库提供自然的英文示范答案和中文讲解。"
+        ],
+        "logo": "./assets/icon-blue.svg",
+        "composerIcon": "./assets/icon-blue.svg",
+        "logoDark": "./assets/icon-white.svg",
+        "composerIconDark": "./assets/icon-white.svg",
+        "brandColor": "#2563EB",
+        "brandColorDark": "#FFFFFF"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "IELTS SPEAKING SIMULATOR LIVE"
+  short_description: "全真口语模拟、官方标准评分、语料示范"
+  default_prompt: "开始完整 IELTS Speaking 模拟考试；优先使用上传题目，逐题提问，结束后评分并提供语料示范。"
+  brand_color: "#2563EB"
+policy:
+  allow_implicit_invocation: true

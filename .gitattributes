@@ -1,0 +1,15 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf
+*.pdf binary
+*.png binary
+*.zip binary
+*.gz binary
+
+# Preserve the supplied reference excerpts' original ending blank lines.
+skills/ielts-speaking-simulator/references/corpus/** whitespace=-blank-at-eof
+skills/ielts-speaking-simulator/references/official/*.txt whitespace=-blank-at-eof

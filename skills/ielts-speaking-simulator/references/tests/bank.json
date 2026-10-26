@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "S01",
+    "source": "original-practice",
+    "domain": "education",
+    "corpus_theme": "01",
+    "part1": [
+      {
+        "domain": "nature",
+        "topic": "Birds",
+        "questions": [
+          {
+            "id": "S01-P1-01",
+            "text": "Do you often notice birds near where you live?"
+          },
+          {
+            "id": "S01-P1-02",
+            "text": "Is there a bird you particularly like?"
+          },
+          {
+            "id": "S01-P1-03",
+            "text": "Did you learn much about birds as a child?"
+          },
+          {
+            "id": "S01-P1-04",
+            "text": "Would you enjoy visiting a place to watch birds?"
+          }
+        ]
+      },
+      {
+        "domain": "shopping-services",
+        "topic": "Choosing gifts",
+        "questions": [
+          {
+            "id": "S01-P1-05",
+            "text": "How do you decide what gift to buy for someone?"
+          },
+          {
+            "id": "S01-P1-06",
+            "text": "Do you prefer buying gifts in advance or at the last minute?"
+          },
+          {
+            "id": "S01-P1-07",
+            "text": "Have you ever made a gift yourself?"
+          },
+          {
+            "id": "S01-P1-08",
+            "text": "What kind of gift is easy for you to choose?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S01-P2",
+      "prompt": "Describe a practical skill you learned from another person.",
+      "bullets": [
+        "what the skill was",
+        "who helped you learn it",
+        "how you practised it"
+      ],
+      "explain": "why learning this skill was useful to you",
+      "followups": [
+        {
+          "id": "S01-P2-F1",
+          "text": "Do you still use this skill?"
+        },
+        {
+          "id": "S01-P2-F2",
+          "text": "Would you like to teach it to someone else?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S01-P3-01",
+        "text": "What kinds of practical skills should schools help children develop?"
+      },
+      {
+        "id": "S01-P3-02",
+        "text": "How does learning from another person differ from learning from a video?"
+      },
+      {
+        "id": "S01-P3-03",
+        "text": "Why do some adults stop learning new skills?"
+      },
+      {
+        "id": "S01-P3-04",
+        "text": "Who should pay for training when people's jobs change?"
+      },
+      {
+        "id": "S01-P3-05",
+        "text": "How might the way people learn practical skills change in the future?"
+      }
+    ]
+  },
+  {
+    "id": "S02",
+    "source": "original-practice",
+    "domain": "technology",
+    "corpus_theme": "02",
+    "part1": [
+      {
+        "domain": "food",
+        "topic": "Breakfast",
+        "questions": [
+          {
+            "id": "S02-P1-01",
+            "text": "What do you usually have for breakfast?"
+          },
+          {
+            "id": "S02-P1-02",
+            "text": "Do you prefer eating breakfast alone or with someone else?"
+          },
+          {
+            "id": "S02-P1-03",
+            "text": "Are your breakfasts different at weekends?"
+          },
+          {
+            "id": "S02-P1-04",
+            "text": "Is there a breakfast food you would like to try?"
+          }
+        ]
+      },
+      {
+        "domain": "work-skills",
+        "topic": "Working with others",
+        "questions": [
+          {
+            "id": "S02-P1-05",
+            "text": "Do you enjoy doing practical tasks with other people?"
+          },
+          {
+            "id": "S02-P1-06",
+            "text": "What role do you usually take when working in a group?"
+          },
+          {
+            "id": "S02-P1-07",
+            "text": "Do you prefer discussing a task before starting it?"
+          },
+          {
+            "id": "S02-P1-08",
+            "text": "Have you worked with someone whose habits were different from yours?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S02-P2",
+      "prompt": "Describe a piece of technology that made an everyday task easier for you.",
+      "bullets": [
+        "what it was",
+        "when you began using it",
+        "what task you used it for"
+      ],
+      "explain": "how it changed the way you did that task",
+      "followups": [
+        {
+          "id": "S02-P2-F1",
+          "text": "How often do you use it now?"
+        },
+        {
+          "id": "S02-P2-F2",
+          "text": "Was it easy to learn to use?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S02-P3-01",
+        "text": "Why do people sometimes resist using new technology?"
+      },
+      {
+        "id": "S02-P3-02",
+        "text": "How can designers make technology easier for older users?"
+      },
+      {
+        "id": "S02-P3-03",
+        "text": "What problems can arise when people depend too much on devices?"
+      },
+      {
+        "id": "S02-P3-04",
+        "text": "Should schools teach children to question the advice given by technology?"
+      },
+      {
+        "id": "S02-P3-05",
+        "text": "Which everyday activities are likely to remain largely unchanged by technology?"
+      }
+    ]
+  },
+  {
+    "id": "S03",
+    "source": "original-practice",
+    "domain": "environment",
+    "corpus_theme": "03",
+    "part1": [
+      {
+        "domain": "wellbeing",
+        "topic": "Walking",
+        "questions": [
+          {
+            "id": "S03-P1-01",
+            "text": "How much walking do you do in a typical day?"
+          },
+          {
+            "id": "S03-P1-02",
+            "text": "Where do you like to go for a short walk?"
+          },
+          {
+            "id": "S03-P1-03",
+            "text": "Do you prefer walking with music or without it?"
+          },
+          {
+            "id": "S03-P1-04",
+            "text": "Has the amount you walk changed since you were younger?"
+          }
+        ]
+      },
+      {
+        "domain": "community",
+        "topic": "Local events",
+        "questions": [
+          {
+            "id": "S03-P1-05",
+            "text": "What kinds of events take place near where you live?"
+          },
+          {
+            "id": "S03-P1-06",
+            "text": "Do you usually hear about local events from friends or online?"
+          },
+          {
+            "id": "S03-P1-07",
+            "text": "Have you attended a local event recently?"
+          },
+          {
+            "id": "S03-P1-08",
+            "text": "Would you like to help organize an event in your area?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S03-P2",
+      "prompt": "Describe a change you made to reduce waste in your daily life.",
+      "bullets": [
+        "what you changed",
+        "when you made the change",
+        "how you managed to do it"
+      ],
+      "explain": "how you felt about making this change",
+      "followups": [
+        {
+          "id": "S03-P2-F1",
+          "text": "Was the change expensive to make?"
+        },
+        {
+          "id": "S03-P2-F2",
+          "text": "Have you encouraged anyone else to try it?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S03-P3-01",
+        "text": "Why do people throw away things that could still be used?"
+      },
+      {
+        "id": "S03-P3-02",
+        "text": "How can shops make it easier for customers to produce less waste?"
+      },
+      {
+        "id": "S03-P3-03",
+        "text": "Are individual efforts or changes by businesses more effective in reducing waste?"
+      },
+      {
+        "id": "S03-P3-04",
+        "text": "What makes environmental habits difficult to maintain?"
+      },
+      {
+        "id": "S03-P3-05",
+        "text": "How might attitudes towards repairing possessions change in the future?"
+      }
+    ]
+  },
+  {
+    "id": "S04",
+    "source": "original-practice",
+    "domain": "nature",
+    "corpus_theme": "04",
+    "part1": [
+      {
+        "domain": "memory-planning",
+        "topic": "Remembering names",
+        "questions": [
+          {
+            "id": "S04-P1-01",
+            "text": "Are you good at remembering people's names?"
+          },
+          {
+            "id": "S04-P1-02",
+            "text": "What do you do when you cannot remember a name?"
+          },
+          {
+            "id": "S04-P1-03",
+            "text": "Were names easy for you to remember at school?"
+          },
+          {
+            "id": "S04-P1-04",
+            "text": "Do you find faces easier to remember than names?"
+          }
+        ]
+      },
+      {
+        "domain": "buildings",
+        "topic": "Favourite rooms",
+        "questions": [
+          {
+            "id": "S04-P1-05",
+            "text": "Which room do you spend most time in at home?"
+          },
+          {
+            "id": "S04-P1-06",
+            "text": "What makes that room comfortable for you?"
+          },
+          {
+            "id": "S04-P1-07",
+            "text": "Do you like changing the arrangement of furniture?"
+          },
+          {
+            "id": "S04-P1-08",
+            "text": "Would you prefer one large room or several smaller rooms for relaxing?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S04-P2",
+      "prompt": "Describe a natural place where you enjoyed spending time.",
+      "bullets": [
+        "where it was",
+        "when you went there",
+        "what you did there"
+      ],
+      "explain": "why you enjoyed being in this place",
+      "followups": [
+        {
+          "id": "S04-P2-F1",
+          "text": "Would you like to go there again?"
+        },
+        {
+          "id": "S04-P2-F2",
+          "text": "Was it crowded when you visited?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S04-P3-01",
+        "text": "Why are people attracted to places with wildlife or beautiful scenery?"
+      },
+      {
+        "id": "S04-P3-02",
+        "text": "How does access to nature differ for people in cities and the countryside?"
+      },
+      {
+        "id": "S04-P3-03",
+        "text": "Should visitor numbers be limited in popular natural areas?"
+      },
+      {
+        "id": "S04-P3-04",
+        "text": "How can children learn to respect living things around them?"
+      },
+      {
+        "id": "S04-P3-05",
+        "text": "What could be lost if people spent very little time outdoors?"
+      }
+    ]
+  },
+  {
+    "id": "S05",
+    "source": "original-practice",
+    "domain": "food",
+    "corpus_theme": "05",
+    "part1": [
+      {
+        "domain": "shopping-services",
+        "topic": "Small shops",
+        "questions": [
+          {
+            "id": "S05-P1-01",
+            "text": "Are there many small shops near your home?"
+          },
+          {
+            "id": "S05-P1-02",
+            "text": "What do you usually buy from small shops?"
+          },
+          {
+            "id": "S05-P1-03",
+            "text": "Do you ever talk to the people who work in those shops?"
+          },
+          {
+            "id": "S05-P1-04",
+            "text": "Is there a type of small shop you wish you had nearby?"
+          }
+        ]
+      },
+      {
+        "domain": "transport-travel",
+        "topic": "Packing",
+        "questions": [
+          {
+            "id": "S05-P1-05",
+            "text": "What do you usually pack first for a short trip?"
+          },
+          {
+            "id": "S05-P1-06",
+            "text": "Do you make a list before packing?"
+          },
+          {
+            "id": "S05-P1-07",
+            "text": "Have you ever packed something you did not use?"
+          },
+          {
+            "id": "S05-P1-08",
+            "text": "Do you prefer travelling with a small bag or a large suitcase?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S05-P2",
+      "prompt": "Describe a meal you helped prepare for other people.",
+      "bullets": [
+        "who the meal was for",
+        "what food you helped prepare",
+        "what you did during the preparation"
+      ],
+      "explain": "why you remember this meal",
+      "followups": [
+        {
+          "id": "S05-P2-F1",
+          "text": "Did the other people enjoy the meal?"
+        },
+        {
+          "id": "S05-P2-F2",
+          "text": "Would you prepare the same food again?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S05-P3-01",
+        "text": "Why do people often share food on special occasions?"
+      },
+      {
+        "id": "S05-P3-02",
+        "text": "How has the way families prepare meals changed in recent decades?"
+      },
+      {
+        "id": "S05-P3-03",
+        "text": "What are the advantages of teaching children to cook?"
+      },
+      {
+        "id": "S05-P3-04",
+        "text": "Why might people choose ready-made food even when they can cook?"
+      },
+      {
+        "id": "S05-P3-05",
+        "text": "How could communities make fresh food easier to obtain?"
+      }
+    ]
+  },
+  {
+    "id": "S06",
+    "source": "original-practice",
+    "domain": "wellbeing",
+    "corpus_theme": "06",
+    "part1": [
+      {
+        "domain": "work-skills",
+        "topic": "Daily tasks",
+        "questions": [
+          {
+            "id": "S06-P1-01",
+            "text": "Which everyday task do you usually do first in the morning?"
+          },
+          {
+            "id": "S06-P1-02",
+            "text": "Do you prefer finishing tasks early or close to the deadline?"
+          },
+          {
+            "id": "S06-P1-03",
+            "text": "What helps you deal with a task you dislike?"
+          },
+          {
+            "id": "S06-P1-04",
+            "text": "Are your weekdays usually more organized than your weekends?"
+          }
+        ]
+      },
+      {
+        "domain": "arts",
+        "topic": "Drawing",
+        "questions": [
+          {
+            "id": "S06-P1-05",
+            "text": "Do you ever draw in your free time?"
+          },
+          {
+            "id": "S06-P1-06",
+            "text": "What did you like drawing as a child?"
+          },
+          {
+            "id": "S06-P1-07",
+            "text": "Do you prefer drawing on paper or on a screen?"
+          },
+          {
+            "id": "S06-P1-08",
+            "text": "Would you like to take a drawing class?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S06-P2",
+      "prompt": "Describe a habit that helped you feel healthier or more energetic.",
+      "bullets": [
+        "what the habit was",
+        "when you started it",
+        "how you fitted it into your routine"
+      ],
+      "explain": "why you think it made a difference",
+      "followups": [
+        {
+          "id": "S06-P2-F1",
+          "text": "Do you still keep this habit?"
+        },
+        {
+          "id": "S06-P2-F2",
+          "text": "Was it difficult at the beginning?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S06-P3-01",
+        "text": "Why do people find it hard to maintain healthy routines?"
+      },
+      {
+        "id": "S06-P3-02",
+        "text": "How can workplaces make it easier for people to stay active?"
+      },
+      {
+        "id": "S06-P3-03",
+        "text": "Is reliable health information always enough to change people's behaviour?"
+      },
+      {
+        "id": "S06-P3-04",
+        "text": "What role should public spaces play in people's wellbeing?"
+      },
+      {
+        "id": "S06-P3-05",
+        "text": "How might daily routines become healthier in the future?"
+      }
+    ]
+  },
+  {
+    "id": "S07",
+    "source": "original-practice",
+    "domain": "memory-planning",
+    "corpus_theme": "07",
+    "part1": [
+      {
+        "domain": "community",
+        "topic": "Neighbours",
+        "questions": [
+          {
+            "id": "S07-P1-01",
+            "text": "Do you know many of your neighbours?"
+          },
+          {
+            "id": "S07-P1-02",
+            "text": "When do you usually see your neighbours?"
+          },
+          {
+            "id": "S07-P1-03",
+            "text": "Have you ever borrowed something from a neighbour?"
+          },
+          {
+            "id": "S07-P1-04",
+            "text": "Would you like to spend more time with people who live nearby?"
+          }
+        ]
+      },
+      {
+        "domain": "heritage",
+        "topic": "Traditional celebrations",
+        "questions": [
+          {
+            "id": "S07-P1-05",
+            "text": "Is there a traditional celebration you especially enjoy?"
+          },
+          {
+            "id": "S07-P1-06",
+            "text": "What do you usually eat at that celebration?"
+          },
+          {
+            "id": "S07-P1-07",
+            "text": "Has the way you celebrate it changed since childhood?"
+          },
+          {
+            "id": "S07-P1-08",
+            "text": "Do you like explaining your traditions to visitors?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S07-P2",
+      "prompt": "Describe a time when you had to change a plan.",
+      "bullets": [
+        "what you had planned",
+        "why the plan changed",
+        "what you decided to do instead"
+      ],
+      "explain": "what you learned from the experience",
+      "followups": [
+        {
+          "id": "S07-P2-F1",
+          "text": "Were other people affected by the change?"
+        },
+        {
+          "id": "S07-P2-F2",
+          "text": "Did the new plan work well?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S07-P3-01",
+        "text": "Why do some people prefer detailed plans while others prefer flexibility?"
+      },
+      {
+        "id": "S07-P3-02",
+        "text": "How do people learn to deal with unexpected changes?"
+      },
+      {
+        "id": "S07-P3-03",
+        "text": "Are long-term plans useful when circumstances are uncertain?"
+      },
+      {
+        "id": "S07-P3-04",
+        "text": "What can organizations do when different people have conflicting priorities?"
+      },
+      {
+        "id": "S07-P3-05",
+        "text": "How might digital planning tools affect people's ability to make their own decisions?"
+      }
+    ]
+  },
+  {
+    "id": "S08",
+    "source": "original-practice",
+    "domain": "shopping-services",
+    "corpus_theme": "08",
+    "part1": [
+      {
+        "domain": "buildings",
+        "topic": "Windows",
+        "questions": [
+          {
+            "id": "S08-P1-01",
+            "text": "What can you see from a window in your home?"
+          },
+          {
+            "id": "S08-P1-02",
+            "text": "Do you like sitting beside a window?"
+          },
+          {
+            "id": "S08-P1-03",
+            "text": "How often do you open your windows?"
+          },
+          {
+            "id": "S08-P1-04",
+            "text": "Would large windows be important when choosing a place to live?"
+          }
+        ]
+      },
+      {
+        "domain": "communication",
+        "topic": "Phone calls",
+        "questions": [
+          {
+            "id": "S08-P1-05",
+            "text": "Who do you most often speak to on the phone?"
+          },
+          {
+            "id": "S08-P1-06",
+            "text": "Do you prefer making calls in the morning or evening?"
+          },
+          {
+            "id": "S08-P1-07",
+            "text": "Is it easy for you to make calls in a noisy place?"
+          },
+          {
+            "id": "S08-P1-08",
+            "text": "Would you rather call someone to make plans or meet them in person?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S08-P2",
+      "prompt": "Describe a time when you received very good service.",
+      "bullets": [
+        "where you were",
+        "what service you needed",
+        "what the person helping you did"
+      ],
+      "explain": "why the service impressed you",
+      "followups": [
+        {
+          "id": "S08-P2-F1",
+          "text": "Did you tell anyone about the service?"
+        },
+        {
+          "id": "S08-P2-F2",
+          "text": "Would you use that service again?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S08-P3-01",
+        "text": "What makes customers feel that they have been treated well?"
+      },
+      {
+        "id": "S08-P3-02",
+        "text": "How does service in a small business differ from service in a large company?"
+      },
+      {
+        "id": "S08-P3-03",
+        "text": "Why do some customers prefer speaking to a person rather than using an automated service?"
+      },
+      {
+        "id": "S08-P3-04",
+        "text": "How useful are online reviews when judging a business?"
+      },
+      {
+        "id": "S08-P3-05",
+        "text": "Should businesses always do what customers ask them to do?"
+      }
+    ]
+  },
+  {
+    "id": "S09",
+    "source": "original-practice",
+    "domain": "work-skills",
+    "corpus_theme": "09",
+    "part1": [
+      {
+        "domain": "transport-travel",
+        "topic": "Buses",
+        "questions": [
+          {
+            "id": "S09-P1-01",
+            "text": "How often do you travel by bus?"
+          },
+          {
+            "id": "S09-P1-02",
+            "text": "What do you normally do while waiting for a bus?"
+          },
+          {
+            "id": "S09-P1-03",
+            "text": "Is taking a bus easy in your area?"
+          },
+          {
+            "id": "S09-P1-04",
+            "text": "Was travelling by bus different for you as a child?"
+          }
+        ]
+      },
+      {
+        "domain": "recreation",
+        "topic": "Swimming",
+        "questions": [
+          {
+            "id": "S09-P1-05",
+            "text": "Do you like swimming?"
+          },
+          {
+            "id": "S09-P1-06",
+            "text": "How far is the nearest place where you could swim?"
+          },
+          {
+            "id": "S09-P1-07",
+            "text": "Did you have opportunities to swim when you were a child?"
+          },
+          {
+            "id": "S09-P1-08",
+            "text": "Would you prefer swimming indoors or outdoors?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S09-P2",
+      "prompt": "Describe a person whose work you find interesting.",
+      "bullets": [
+        "who the person is",
+        "what kind of work they do",
+        "how you learned about their work"
+      ],
+      "explain": "why their work interests you",
+      "followups": [
+        {
+          "id": "S09-P2-F1",
+          "text": "Have you met this person?"
+        },
+        {
+          "id": "S09-P2-F2",
+          "text": "Would you like to try this kind of work?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S09-P3-01",
+        "text": "Why do some kinds of work seem more attractive than others?"
+      },
+      {
+        "id": "S09-P3-02",
+        "text": "How much should personal interests influence a career choice?"
+      },
+      {
+        "id": "S09-P3-03",
+        "text": "How can people find out what a job is really like before choosing it?"
+      },
+      {
+        "id": "S09-P3-04",
+        "text": "Why are some socially useful jobs not highly paid?"
+      },
+      {
+        "id": "S09-P3-05",
+        "text": "How might people's ideas about a successful career change?"
+      }
+    ]
+  },
+  {
+    "id": "S10",
+    "source": "original-practice",
+    "domain": "community",
+    "corpus_theme": "10",
+    "part1": [
+      {
+        "domain": "arts",
+        "topic": "Music at home",
+        "questions": [
+          {
+            "id": "S10-P1-01",
+            "text": "When do you usually listen to music at home?"
+          },
+          {
+            "id": "S10-P1-02",
+            "text": "Do you like having music on while doing housework?"
+          },
+          {
+            "id": "S10-P1-03",
+            "text": "Has your taste in music changed over the years?"
+          },
+          {
+            "id": "S10-P1-04",
+            "text": "Is there an instrument you enjoy listening to especially?"
+          }
+        ]
+      },
+      {
+        "domain": "everyday-rules",
+        "topic": "Being on time",
+        "questions": [
+          {
+            "id": "S10-P1-05",
+            "text": "Is it important to you to arrive on time?"
+          },
+          {
+            "id": "S10-P1-06",
+            "text": "How do you make sure you are not late for an appointment?"
+          },
+          {
+            "id": "S10-P1-07",
+            "text": "Do you usually arrive early when meeting friends?"
+          },
+          {
+            "id": "S10-P1-08",
+            "text": "Has your attitude to punctuality changed as you have grown older?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S10-P2",
+      "prompt": "Describe a time when you helped with an activity in your community.",
+      "bullets": [
+        "what the activity was",
+        "who was involved",
+        "what you did to help"
+      ],
+      "explain": "how you felt about taking part",
+      "followups": [
+        {
+          "id": "S10-P2-F1",
+          "text": "Would you take part in a similar activity again?"
+        },
+        {
+          "id": "S10-P2-F2",
+          "text": "Did you know the other participants beforehand?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S10-P3-01",
+        "text": "What encourages people to help others in their local area?"
+      },
+      {
+        "id": "S10-P3-02",
+        "text": "Why might people in the same neighbourhood know very little about each other?"
+      },
+      {
+        "id": "S10-P3-03",
+        "text": "How can local activities bring different generations together?"
+      },
+      {
+        "id": "S10-P3-04",
+        "text": "Should participation in community activities always be voluntary?"
+      },
+      {
+        "id": "S10-P3-05",
+        "text": "How could communities include people who have little free time?"
+      }
+    ]
+  },
+  {
+    "id": "S11",
+    "source": "original-practice",
+    "domain": "buildings",
+    "corpus_theme": "11",
+    "part1": [
+      {
+        "domain": "heritage",
+        "topic": "Family photographs",
+        "questions": [
+          {
+            "id": "S11-P1-01",
+            "text": "Do you have any old family photographs?"
+          },
+          {
+            "id": "S11-P1-02",
+            "text": "Who usually looks after photographs in your family?"
+          },
+          {
+            "id": "S11-P1-03",
+            "text": "Do you enjoy hearing the stories behind old photographs?"
+          },
+          {
+            "id": "S11-P1-04",
+            "text": "Would you like to make an album of family photographs?"
+          }
+        ]
+      },
+      {
+        "domain": "education",
+        "topic": "Learning places",
+        "questions": [
+          {
+            "id": "S11-P1-05",
+            "text": "Where do you concentrate best when learning something?"
+          },
+          {
+            "id": "S11-P1-06",
+            "text": "Do you like learning in a quiet place or a busy place?"
+          },
+          {
+            "id": "S11-P1-07",
+            "text": "What do you keep nearby when you study?"
+          },
+          {
+            "id": "S11-P1-08",
+            "text": "Is there a place outside your home where you would like to study?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S11-P2",
+      "prompt": "Describe a public building that you find useful.",
+      "bullets": [
+        "what the building is",
+        "where it is",
+        "what you do there"
+      ],
+      "explain": "why it is useful to you",
+      "followups": [
+        {
+          "id": "S11-P2-F1",
+          "text": "How often do you go there?"
+        },
+        {
+          "id": "S11-P2-F2",
+          "text": "Is it easy to reach from your home?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S11-P3-01",
+        "text": "What should be considered when designing buildings for public use?"
+      },
+      {
+        "id": "S11-P3-02",
+        "text": "How can a public building serve people of different ages?"
+      },
+      {
+        "id": "S11-P3-03",
+        "text": "Is appearance as important as usefulness in public architecture?"
+      },
+      {
+        "id": "S11-P3-04",
+        "text": "Why might a city choose to improve an existing building rather than replace it?"
+      },
+      {
+        "id": "S11-P3-05",
+        "text": "How could public buildings adapt to changing community needs?"
+      }
+    ]
+  },
+  {
+    "id": "S12",
+    "source": "original-practice",
+    "domain": "transport-travel",
+    "corpus_theme": "12",
+    "part1": [
+      {
+        "domain": "communication",
+        "topic": "Messages",
+        "questions": [
+          {
+            "id": "S12-P1-01",
+            "text": "Do you send more written messages or voice messages?"
+          },
+          {
+            "id": "S12-P1-02",
+            "text": "How quickly do you usually reply to messages?"
+          },
+          {
+            "id": "S12-P1-03",
+            "text": "What kinds of messages do you prefer receiving?"
+          },
+          {
+            "id": "S12-P1-04",
+            "text": "Has the way you message friends changed in recent years?"
+          }
+        ]
+      },
+      {
+        "domain": "technology",
+        "topic": "Household equipment",
+        "questions": [
+          {
+            "id": "S12-P1-05",
+            "text": "Which piece of household equipment do you use most often?"
+          },
+          {
+            "id": "S12-P1-06",
+            "text": "Do you usually read instructions before using new equipment?"
+          },
+          {
+            "id": "S12-P1-07",
+            "text": "Have you ever learned to use a machine from someone else?"
+          },
+          {
+            "id": "S12-P1-08",
+            "text": "Is there a household task you wish a machine could do for you?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S12-P2",
+      "prompt": "Describe a journey you made using public transport.",
+      "bullets": [
+        "where you were going",
+        "which form of transport you used",
+        "what happened during the journey"
+      ],
+      "explain": "why you remember this journey",
+      "followups": [
+        {
+          "id": "S12-P2-F1",
+          "text": "Were you travelling alone?"
+        },
+        {
+          "id": "S12-P2-F2",
+          "text": "Would you use that route again?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S12-P3-01",
+        "text": "What makes public transport attractive to travellers?"
+      },
+      {
+        "id": "S12-P3-02",
+        "text": "Why do transport needs differ between urban and rural areas?"
+      },
+      {
+        "id": "S12-P3-03",
+        "text": "How can cities encourage people to rely less on private cars?"
+      },
+      {
+        "id": "S12-P3-04",
+        "text": "What problems can occur when a transport system becomes very busy?"
+      },
+      {
+        "id": "S12-P3-05",
+        "text": "How might the experience of travelling on public transport improve in the future?"
+      }
+    ]
+  },
+  {
+    "id": "S13",
+    "source": "original-practice",
+    "domain": "arts",
+    "corpus_theme": "13",
+    "part1": [
+      {
+        "domain": "recreation",
+        "topic": "Board games",
+        "questions": [
+          {
+            "id": "S13-P1-01",
+            "text": "Do you enjoy playing board games?"
+          },
+          {
+            "id": "S13-P1-02",
+            "text": "Who do you usually play games with?"
+          },
+          {
+            "id": "S13-P1-03",
+            "text": "Did you have a favourite game when you were younger?"
+          },
+          {
+            "id": "S13-P1-04",
+            "text": "Would you rather learn a new game or play one you know well?"
+          }
+        ]
+      },
+      {
+        "domain": "environment",
+        "topic": "Saving electricity",
+        "questions": [
+          {
+            "id": "S13-P1-05",
+            "text": "Do you usually switch lights off when leaving a room?"
+          },
+          {
+            "id": "S13-P1-06",
+            "text": "Which electrical item do you use for the longest time each day?"
+          },
+          {
+            "id": "S13-P1-07",
+            "text": "Do you notice how much electricity you use?"
+          },
+          {
+            "id": "S13-P1-08",
+            "text": "Did your family teach you any habits about saving electricity?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S13-P2",
+      "prompt": "Describe a live performance you enjoyed.",
+      "bullets": [
+        "what the performance was",
+        "where you watched it",
+        "who you were with"
+      ],
+      "explain": "why you enjoyed it",
+      "followups": [
+        {
+          "id": "S13-P2-F1",
+          "text": "Had you seen the performers before?"
+        },
+        {
+          "id": "S13-P2-F2",
+          "text": "Would you like to see that kind of performance again?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S13-P3-01",
+        "text": "What can a live performance offer that a recording cannot?"
+      },
+      {
+        "id": "S13-P3-02",
+        "text": "Why do artistic tastes differ between generations?"
+      },
+      {
+        "id": "S13-P3-03",
+        "text": "How can people be encouraged to try unfamiliar forms of art?"
+      },
+      {
+        "id": "S13-P3-04",
+        "text": "Should public money help support local performers?"
+      },
+      {
+        "id": "S13-P3-05",
+        "text": "How might technology change the relationship between artists and audiences?"
+      }
+    ]
+  },
+  {
+    "id": "S14",
+    "source": "original-practice",
+    "domain": "heritage",
+    "corpus_theme": "14",
+    "part1": [
+      {
+        "domain": "everyday-rules",
+        "topic": "Waiting in line",
+        "questions": [
+          {
+            "id": "S14-P1-01",
+            "text": "Where do you most often have to wait in line?"
+          },
+          {
+            "id": "S14-P1-02",
+            "text": "What do you usually do while you are waiting?"
+          },
+          {
+            "id": "S14-P1-03",
+            "text": "Do you find it easy to be patient in a long line?"
+          },
+          {
+            "id": "S14-P1-04",
+            "text": "Have you ever decided to leave because a line was too long?"
+          }
+        ]
+      },
+      {
+        "domain": "nature",
+        "topic": "Indoor plants",
+        "questions": [
+          {
+            "id": "S14-P1-05",
+            "text": "Do you keep any plants indoors?"
+          },
+          {
+            "id": "S14-P1-06",
+            "text": "Where would you put a new plant in your home?"
+          },
+          {
+            "id": "S14-P1-07",
+            "text": "Have you ever tried growing a plant from a seed?"
+          },
+          {
+            "id": "S14-P1-08",
+            "text": "Would you enjoy receiving a plant as a present?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S14-P2",
+      "prompt": "Describe an old object that helped you learn something about the past.",
+      "bullets": [
+        "what the object was",
+        "where you saw it",
+        "what you learned from it"
+      ],
+      "explain": "why you found it interesting",
+      "followups": [
+        {
+          "id": "S14-P2-F1",
+          "text": "Would you like to see the object again?"
+        },
+        {
+          "id": "S14-P2-F2",
+          "text": "Did someone explain its history to you?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S14-P3-01",
+        "text": "What can everyday objects tell us about earlier generations?"
+      },
+      {
+        "id": "S14-P3-02",
+        "text": "Why do people disagree about which parts of the past should be preserved?"
+      },
+      {
+        "id": "S14-P3-03",
+        "text": "How can museums make history interesting to younger visitors?"
+      },
+      {
+        "id": "S14-P3-04",
+        "text": "Is preserving an original object always better than making a digital record?"
+      },
+      {
+        "id": "S14-P3-05",
+        "text": "How might future generations learn about ordinary life today?"
+      }
+    ]
+  },
+  {
+    "id": "S15",
+    "source": "original-practice",
+    "domain": "communication",
+    "corpus_theme": "15",
+    "part1": [
+      {
+        "domain": "education",
+        "topic": "Reading for pleasure",
+        "questions": [
+          {
+            "id": "S15-P1-01",
+            "text": "What kinds of things do you enjoy reading?"
+          },
+          {
+            "id": "S15-P1-02",
+            "text": "Where do you normally read at home?"
+          },
+          {
+            "id": "S15-P1-03",
+            "text": "Did you read much when you were a child?"
+          },
+          {
+            "id": "S15-P1-04",
+            "text": "Is there something you would like to read more about?"
+          }
+        ]
+      },
+      {
+        "domain": "food",
+        "topic": "Cooking",
+        "questions": [
+          {
+            "id": "S15-P1-05",
+            "text": "What is a simple dish you can cook?"
+          },
+          {
+            "id": "S15-P1-06",
+            "text": "Who first showed you how to prepare food?"
+          },
+          {
+            "id": "S15-P1-07",
+            "text": "Do you enjoy trying unfamiliar ingredients?"
+          },
+          {
+            "id": "S15-P1-08",
+            "text": "Would you rather cook for yourself or for several people?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S15-P2",
+      "prompt": "Describe a conversation that helped you see something differently.",
+      "bullets": [
+        "who you spoke with",
+        "what you talked about",
+        "where the conversation took place"
+      ],
+      "explain": "how it changed your view",
+      "followups": [
+        {
+          "id": "S15-P2-F1",
+          "text": "Have you spoken about that subject again?"
+        },
+        {
+          "id": "S15-P2-F2",
+          "text": "Was it a long conversation?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S15-P3-01",
+        "text": "Why do some conversations change people's opinions while others do not?"
+      },
+      {
+        "id": "S15-P3-02",
+        "text": "How does listening carefully affect the quality of a discussion?"
+      },
+      {
+        "id": "S15-P3-03",
+        "text": "Is it easier to discuss disagreements online or face to face?"
+      },
+      {
+        "id": "S15-P3-04",
+        "text": "What can schools do to help students express different views respectfully?"
+      },
+      {
+        "id": "S15-P3-05",
+        "text": "How might communication between people from different backgrounds develop in the future?"
+      }
+    ]
+  },
+  {
+    "id": "S16",
+    "source": "original-practice",
+    "domain": "recreation",
+    "corpus_theme": "16",
+    "part1": [
+      {
+        "domain": "technology",
+        "topic": "Phone photographs",
+        "questions": [
+          {
+            "id": "S16-P1-01",
+            "text": "What do you usually take photographs of with your phone?"
+          },
+          {
+            "id": "S16-P1-02",
+            "text": "How do you organize the photographs you keep?"
+          },
+          {
+            "id": "S16-P1-03",
+            "text": "Do you prefer taking photographs or being in them?"
+          },
+          {
+            "id": "S16-P1-04",
+            "text": "Have you ever printed a photograph from your phone?"
+          }
+        ]
+      },
+      {
+        "domain": "wellbeing",
+        "topic": "Sleep routines",
+        "questions": [
+          {
+            "id": "S16-P1-05",
+            "text": "What do you normally do just before going to bed?"
+          },
+          {
+            "id": "S16-P1-06",
+            "text": "Do you usually wake up at the same time each day?"
+          },
+          {
+            "id": "S16-P1-07",
+            "text": "Do you find it easy to sleep somewhere unfamiliar?"
+          },
+          {
+            "id": "S16-P1-08",
+            "text": "Is there anything you would like to change about your evening routine?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S16-P2",
+      "prompt": "Describe a recreational activity you tried for the first time.",
+      "bullets": [
+        "what the activity was",
+        "where you tried it",
+        "who was with you"
+      ],
+      "explain": "how you felt about the experience",
+      "followups": [
+        {
+          "id": "S16-P2-F1",
+          "text": "Would you try it again?"
+        },
+        {
+          "id": "S16-P2-F2",
+          "text": "Did you need any special equipment?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S16-P3-01",
+        "text": "Why are some people keen to try new leisure activities?"
+      },
+      {
+        "id": "S16-P3-02",
+        "text": "How do costs influence the activities people choose?"
+      },
+      {
+        "id": "S16-P3-03",
+        "text": "What are the benefits of activities that involve working with others?"
+      },
+      {
+        "id": "S16-P3-04",
+        "text": "How can communities provide leisure opportunities for people with different abilities?"
+      },
+      {
+        "id": "S16-P3-05",
+        "text": "Do you think people's leisure time will become more active or less active?"
+      }
+    ]
+  },
+  {
+    "id": "S17",
+    "source": "original-practice",
+    "domain": "everyday-rules",
+    "corpus_theme": "17",
+    "part1": [
+      {
+        "domain": "environment",
+        "topic": "Shopping bags",
+        "questions": [
+          {
+            "id": "S17-P1-01",
+            "text": "What sort of bag do you usually take when you go shopping?"
+          },
+          {
+            "id": "S17-P1-02",
+            "text": "Do you keep spare bags at home?"
+          },
+          {
+            "id": "S17-P1-03",
+            "text": "Have your habits about using bags changed recently?"
+          },
+          {
+            "id": "S17-P1-04",
+            "text": "Would you ever buy a bag mainly because of its design?"
+          }
+        ]
+      },
+      {
+        "domain": "memory-planning",
+        "topic": "Calendars",
+        "questions": [
+          {
+            "id": "S17-P1-05",
+            "text": "Do you use a calendar to keep track of your plans?"
+          },
+          {
+            "id": "S17-P1-06",
+            "text": "What kinds of things do you write in a calendar?"
+          },
+          {
+            "id": "S17-P1-07",
+            "text": "Do you prefer planning a week ahead or just one day at a time?"
+          },
+          {
+            "id": "S17-P1-08",
+            "text": "Have you ever forgotten something even though you wrote it down?"
+          }
+        ]
+      }
+    ],
+    "part2": {
+      "id": "S17-P2",
+      "prompt": "Describe a rule in a shared place that you think is useful.",
+      "bullets": [
+        "what the rule is",
+        "where it applies",
+        "how you learned about it"
+      ],
+      "explain": "why you think the rule is useful",
+      "followups": [
+        {
+          "id": "S17-P2-F1",
+          "text": "Do most people follow this rule?"
+        },
+        {
+          "id": "S17-P2-F2",
+          "text": "Would you change anything about it?"
+        }
+      ]
+    },
+    "part3": [
+      {
+        "id": "S17-P3-01",
+        "text": "Why are rules needed in places used by many people?"
+      },
+      {
+        "id": "S17-P3-02",
+        "text": "How can rules be explained so that people understand their purpose?"
+      },
+      {
+        "id": "S17-P3-03",
+        "text": "When is flexibility more useful than applying the same rule to everyone?"
+      },
+      {
+        "id": "S17-P3-04",
+        "text": "Should people who use a shared space help decide its rules?"
+      },
+      {
+        "id": "S17-P3-05",
+        "text": "How might rules for public places change as people's habits change?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+IELTS SPEAKING SIMULATOR LIVE：完整Part 1–3模拟、考题上传、descriptor评分和语料范文；支持手机Markdown导入与ChatGPT插件安装。基于IELTS官方资料和用户整理的剑桥雅思4–21语料。独立项目，非官方；第三方资料版权归原权利人。

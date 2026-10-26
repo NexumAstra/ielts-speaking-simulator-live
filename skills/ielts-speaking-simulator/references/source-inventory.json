@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ielts-writing-key-assessment-criteria.pdf",
+    "sha256": "e896295f8ec55d36fa6801d2c1286576f98244abf66a7d262bf20d827fe63697",
+    "bytes": 446599
+  },
+  {
+    "name": "ielts-speaking-sample-tasks-2023.pdf",
+    "sha256": "70e542190a0628cb387e9f94ddc5750e4d647b876c2d3b85fcfab90ec4295096",
+    "bytes": 1338248
+  },
+  {
+    "name": "ielts-speaking-band-descriptors.pdf",
+    "sha256": "eab717cea3230c2bc9a0888655518bd8f4fd9ca7f8b2f4bdef231e42229cb6c9",
+    "bytes": 396296
+  },
+  {
+    "name": "ielts-scores-guide.pdf",
+    "sha256": "361123499651c265d29d030f8869344970171ab01b544a357ad96bb876da5f25",
+    "bytes": 6432381
+  },
+  {
+    "name": "雅思高频同义替换语料库_剑4-21.md",
+    "sha256": "ecb6dcb707c7847f4110f12b32dd98d4b2753751f43c68f90e47964bb5999831",
+    "bytes": 247605
+  }
+]
